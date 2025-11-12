@@ -1,0 +1,18 @@
+# Virtual enviroment
+.venv/
+venv/
+env/
+
+# Cash Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm
+.idea
+*.iml
+
+# System
+.DS_Store
+Thumbs.db
